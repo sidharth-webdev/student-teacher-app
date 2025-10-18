@@ -53,6 +53,8 @@ project-folder/
 <img width="1920" height="1080" alt="Screenshot 2025-10-18 133100" src="https://github.com/user-attachments/assets/d2e1f94b-e619-4604-93a4-47d218af8d6d" />
 <img width="1920" height="1080" alt="Screenshot 2025-10-18 133117" src="https://github.com/user-attachments/assets/7e53a13b-c1d6-4a08-99da-ed4e1fb9e802" />
 <img width="1920" height="1080" alt="Screenshot 2025-10-18 170829" src="https://github.com/user-attachments/assets/75a0dcdc-3a97-442a-9a2d-17395d0c97e4" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-18 171719" src="https://github.com/user-attachments/assets/f2edc159-e72e-4b85-8988-3b25b62fceaa" />
+
 
 
 
